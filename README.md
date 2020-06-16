@@ -11,7 +11,9 @@ The purpose of this repo is to aid new beginners in learning more about the vari
 - [Contributing](#contributing)
 
 ## Blogs
-
+- https://aws.amazon.com/blogs/devops/bluegreen-infrastructure-application-deployment-blog/
+- https://azure.microsoft.com/en-us/blog/blue-green-deployments-using-azure-traffic-manager/
+- https://rollout.io/blog/blue-green-deployment/
 
 
 
