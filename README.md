@@ -3,15 +3,13 @@
 The purpose of this repo is to aid new beginners in learning more about the various solutions that blue green deployment provides.
 Blue/green deployments ensures zero downtime by allowing an application's new version features to be tested without actually sending it live to production. The primary benefit of this is insurance of the ability to roll back to the previous version. 
 
-- [Implementations](#Implementations)
-- [Blogs](#Blogs)
-- [Youtube Channels](#YoutubeChannels)
-- [Books](#Books)
-- [Support](#support)
-- [Contributing](#contributing)
+## Implementation with Codeploy
+CodeDeploy is a AWS service that deployment that enables application deployments to Amazon EC2 instances, on-premises instances, serverle
 
-## Implementations
-
+### Pros 
+- don't need to make changes to existing code base
+- easy to quickly release new features
+- avoids downtime during deployment
 
 ## Blogs
 - https://aws.amazon.com/blogs/devops/bluegreen-infrastructure-application-deployment-blog/
