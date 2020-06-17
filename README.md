@@ -1,5 +1,6 @@
+![Image of Blue/Green](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Blue_green_cyan_nevit_116.svg/1280px-Blue_green_cyan_nevit_116.svg.png)
 
-# Blue Green Deployment using Code Deploy
+# Blue Green Deployment
 The purpose of this repo is to aid new beginners in learning more about the various solutions that blue green deployment provides.
 Blue/green deployments ensures zero downtime by allowing an application's new version features to be tested without actually sending it live to production. The primary benefit of this is insurance of the ability to roll back to the previous version. 
 
