@@ -1,14 +1,16 @@
 
-
 # Blue Green Deployment
 The purpose of this repo is to aid new beginners in learning more about the various solutions that blue green deployment provides
 
-- [About](#About)
+- [Implementations](#Implementations)
 - [Blogs](#Blogs)
 - [Youtube Channels](#YoutubeChannels)
 - [Books](#Books)
 - [Support](#support)
 - [Contributing](#contributing)
+
+## Implementations
+
 
 ## Blogs
 - https://aws.amazon.com/blogs/devops/bluegreen-infrastructure-application-deployment-blog/
