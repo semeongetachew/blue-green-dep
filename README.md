@@ -1,6 +1,7 @@
 
-# Blue Green Deployment
-The purpose of this repo is to aid new beginners in learning more about the various solutions that blue green deployment provides
+# Blue Green Deployment using Code Deploy
+The purpose of this repo is to aid new beginners in learning more about the various solutions that blue green deployment provides.
+Blue/green deployments ensures zero downtime by allowing an application's new version features to be tested without actually sending it live to production. The primary benefit of this is insurance of the ability to roll back to the previous version. 
 
 - [Implementations](#Implementations)
 - [Blogs](#Blogs)
